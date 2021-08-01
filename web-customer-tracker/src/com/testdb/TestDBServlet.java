@@ -24,6 +24,7 @@ public class TestDBServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		// setup connection variables
+		//setup connection variables
 				String user = "springstudent";
 				String pass = "springstudent";
 				
